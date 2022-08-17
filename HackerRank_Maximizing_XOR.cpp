@@ -14,21 +14,24 @@ string rtrim(const string &);
  *  2. INTEGER r
  */
 
+/* This is most optimized solution .
+   Time Complexity : O(log n)
+   */
+   
+   
+
 int maximizingXor(int l, int r) {
     
     
-    int mx = 1;
-    for(int i = l;i<=r;i++)
+    int p = l^r;
+    int rt = 1;
+    
+    while(p)
     {
-        int a = i;
-        for(int j = i;j<=r;j++)
-        {
-            a = a^j;
-            mx = max(a,mx);
-            a = i;
-        }   
+        rt <<= 1;
+        p >>= 1;
     }
-    return mx;
+    return rt-1;
 
 }
 
@@ -76,3 +79,5 @@ string rtrim(const string &str) {
 
     return s;
 }
+
+
