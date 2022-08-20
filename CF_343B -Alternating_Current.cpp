@@ -24,39 +24,19 @@ void solve()
 	
 	 for(int i = 0;i<n;i++)
 	 {
-		 if(i%2 == 1)
-		 {
-			 if(s[i] == '+'){
-				 s[i] = 'A';
-			 }
-			 else{
-				 s[i] = 'B';
-			 }
-		 }
-		 else{
-			 if(s[i] == '-'){
-				 s[i] = 'A';
-			 }
-			 else{
-				 s[i] = 'B';
-			 }
-		 }
-	 }
-	 
-	 for(int i = 0;i<s.length();i++)
-	 {
-		 if(s[i] == 'A')
+		 if(st.empty() == true)
 		 {
 			 st.push(s[i]);
+			 continue;
+		 }
+		 if(st.top() == s[i])
+		 {
+			 st.pop();
 		 }
 		 else{
-			 if(!(st.empty())){
-				 st.pop();
-			}
-			else{
-				continue;
-			}
+			 st.push(s[i]);
 		 }
+		 
 	 }
 	 if(!(st.empty()))
 	 {
