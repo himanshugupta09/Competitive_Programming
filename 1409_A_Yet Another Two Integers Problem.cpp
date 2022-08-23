@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-#include<bitset>
+
 #include<cmath>
 #include<string>
 #include <iterator>
