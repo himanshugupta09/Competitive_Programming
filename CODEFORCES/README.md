@@ -2,3 +2,7 @@
 
 **1.IMAGE**
 (https://codeforces.com/problemset/problem/1721/A)
+
+
+**2.A. Mainak and Array_1726**
+(https://codeforces.com/contest/1726/problem/A)
