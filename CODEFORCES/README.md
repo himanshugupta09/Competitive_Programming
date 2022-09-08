@@ -10,3 +10,7 @@
 
 **3. Mainak and Interesting Sequence _ 1726B**
 (https://codeforces.com/contest/1726/problem/B)
+
+
+**4. Deadly Laser_1721B**
+(https://codeforces.com/problemset/problem/1721/B)
