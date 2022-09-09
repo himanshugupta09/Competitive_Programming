@@ -14,3 +14,6 @@
 
 **4. Deadly Laser_1721B**
 (https://codeforces.com/problemset/problem/1721/B)
+
+**4. _A_978_Remove Duplicates**
+(https://codeforces.com/contest/978/problem/A)
