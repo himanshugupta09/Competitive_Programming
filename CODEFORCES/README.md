@@ -17,3 +17,6 @@
 
 **4. _A_978_Remove Duplicates**
 (https://codeforces.com/contest/978/problem/A)
+
+**5.977D - Divide by three, multiply by two**
+(https://codeforces.com/contest/977/problem/D)
