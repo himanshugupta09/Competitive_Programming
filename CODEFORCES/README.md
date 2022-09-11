@@ -23,3 +23,7 @@
 
 **6. { 1475 } A. Odd_Divisors**
 (https://codeforces.com/contest/1475/problem/A)
+
+
+**7.  (1475 } - B.New Year's Number
+(https://codeforces.com/contest/1475/problem/B)
