@@ -20,3 +20,6 @@
 
 **5.977D - Divide by three, multiply by two**
 (https://codeforces.com/contest/977/problem/D)
+
+**6. { 1475 } A. Odd_Divisors**
+(https://codeforces.com/contest/1475/problem/A)
