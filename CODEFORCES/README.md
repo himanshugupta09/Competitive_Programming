@@ -25,5 +25,5 @@
 (https://codeforces.com/contest/1475/problem/A)
 
 
-**7.  (1475 } - B.New Year's Number
+**7.  (1475 } - B.New Year's Number**
 (https://codeforces.com/contest/1475/problem/B)
