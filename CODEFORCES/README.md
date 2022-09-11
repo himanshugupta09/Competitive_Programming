@@ -27,3 +27,6 @@
 
 **7.  (1475 } - B.New Year's Number**
 (https://codeforces.com/contest/1475/problem/B)
+
+**8. {1066} - A. Vova and Trains**
+(https://codeforces.com/contest/1066/problem/A)
