@@ -30,3 +30,7 @@
 
 **8. {1066} - A. Vova and Trains**
 (https://codeforces.com/contest/1066/problem/A)
+
+
+**9. {1203} A. Circle of Students**
+(https://codeforces.com/contest/1203/problem/A)
