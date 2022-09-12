@@ -15,17 +15,17 @@
 **4. Deadly Laser_1721B**
 (https://codeforces.com/problemset/problem/1721/B)
 
-**4. _A_978_Remove Duplicates**
+**5. _A_978_Remove Duplicates**
 (https://codeforces.com/contest/978/problem/A)
 
-**5.977D - Divide by three, multiply by two**
+**6.977D - Divide by three, multiply by two**
 (https://codeforces.com/contest/977/problem/D)
 
-**6. { 1475 } A. Odd_Divisors**
+**7. { 1475 } A. Odd_Divisors**
 (https://codeforces.com/contest/1475/problem/A)
 
 
-**7.  (1475 } - B.New Year's Number**
+**8.  (1475 } - B.New Year's Number**
 (https://codeforces.com/contest/1475/problem/B)
 
 **8. {1066} - A. Vova and Trains**
