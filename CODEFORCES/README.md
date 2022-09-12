@@ -38,3 +38,7 @@
 
 **10. { 1092 } A_Uniform String**
 (https://codeforces.com/contest/1092/problem/A)
+
+
+**11. { 1092 } B_Teams Forming**
+(https://codeforces.com/contest/1092/problem/B)
