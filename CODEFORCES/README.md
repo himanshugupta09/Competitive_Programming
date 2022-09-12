@@ -34,3 +34,7 @@
 
 **9. {1203} A. Circle of Students**
 (https://codeforces.com/contest/1203/problem/A)
+
+
+**10. { 1092 } A_Uniform String**
+(https://codeforces.com/contest/1092/problem/A)
