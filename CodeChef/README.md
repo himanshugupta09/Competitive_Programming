@@ -6,3 +6,6 @@
 
 **2. SEPT_LONG_CHALL_1_Speed Limit Test {SPEED TES }**
 (https://www.codechef.com/submit/SPEEDTEST)
+
+**3. STRTS_55 OR TUPLES**
+(https://www.codechef.com/problems/ORTUPLES)
