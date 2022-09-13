@@ -15,3 +15,7 @@
 
 **5. Chef And Bored Games**
 (https://www.codechef.com/submit/PCJ18B?tab=statement)
+
+
+**6. Name Reduction**
+(https://www.codechef.com/submit/NAME1?tab=statement)
