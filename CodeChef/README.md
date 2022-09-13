@@ -9,3 +9,6 @@
 
 **3. STRTS_55 OR TUPLES**
 (https://www.codechef.com/problems/ORTUPLES)
+
+**4. Average Permutation { AVRGPERM }**
+(https://www.codechef.com/submit/AVGPERM?tab=statement)
