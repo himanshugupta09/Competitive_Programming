@@ -12,3 +12,6 @@
 
 **4. Average Permutation { AVRGPERM }**
 (https://www.codechef.com/submit/AVGPERM?tab=statement)
+
+**5. Chef And Bored Games**
+(https://www.codechef.com/submit/PCJ18B?tab=statement)
