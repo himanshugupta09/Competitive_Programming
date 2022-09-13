@@ -42,3 +42,7 @@
 
 **11. { 1092 } B_Teams Forming**
 (https://codeforces.com/contest/1092/problem/B)
+
+
+**12. { 1729 } B_ Decode String**
+(https://codeforces.com/contest/1729/problem/B)
