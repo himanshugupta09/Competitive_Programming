@@ -50,3 +50,7 @@
 
 **13. Jumping on the Tiles {Cf 1729} C**
 (https://codeforces.com/contest/1729/problem/C)
+
+
+**14. Best Permutation { 1728 }**
+(https://codeforces.com/problemset/problem/1728/B)
