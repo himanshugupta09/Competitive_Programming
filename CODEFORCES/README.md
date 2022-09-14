@@ -52,5 +52,5 @@
 (https://codeforces.com/contest/1729/problem/C)
 
 
-**14. Best Permutation { 1728 }**
+**14. Best Permutation { 1728  B }**
 (https://codeforces.com/problemset/problem/1728/B)
