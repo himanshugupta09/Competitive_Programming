@@ -46,3 +46,7 @@
 
 **12. { 1729 } B_ Decode String**
 (https://codeforces.com/contest/1729/problem/B)
+
+
+**13. Jumping on the Tiles {Cf 1729} C**
+(https://codeforces.com/contest/1729/problem/C)
