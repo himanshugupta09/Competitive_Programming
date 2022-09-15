@@ -19,3 +19,7 @@
 
 **6. Name Reduction**
 (https://www.codechef.com/submit/NAME1?tab=statement)
+
+
+**7. Maximize Colors { Starters 56 }**
+(https://www.codechef.com/problems/COLOUR)
