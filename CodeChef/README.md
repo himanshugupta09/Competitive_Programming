@@ -23,3 +23,7 @@
 
 **7. Maximize Colors { Starters 56 }**
 (https://www.codechef.com/problems/COLOUR)
+
+
+**8. K-Sub Arrays { Starteers 56 }**
+(https://www.codechef.com/submit/KSUB?tab=statement)
