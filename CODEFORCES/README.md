@@ -54,3 +54,7 @@
 
 **14. Best Permutation { 1728  B }**
 (https://codeforces.com/problemset/problem/1728/B)
+
+
+**15.  A. Colored Balls : Revisited**
+(https://codeforces.com/problemset/problem/1728/A)
