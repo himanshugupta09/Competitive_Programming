@@ -27,3 +27,7 @@
 
 **8. K-Sub Arrays { Starteers 56 }**
 (https://www.codechef.com/submit/KSUB?tab=statement)
+
+
+**9. Lucky Number Game**
+(https://www.codechef.com/submit/HP18?tab=statement)
