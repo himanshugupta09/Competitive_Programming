@@ -58,3 +58,7 @@
 
 **15.  A. Colored Balls : Revisited**
 (https://codeforces.com/problemset/problem/1728/A)
+
+
+**14.  A. Accumulation of Dominos**
+(https://codeforces.com/problemset/problem/1725/A)
