@@ -62,3 +62,6 @@
 
 **14.  A. Accumulation of Dominos**
 (https://codeforces.com/problemset/problem/1725/A)
+
+**15. A. Chip Game**
+(https://codeforces.com/problemset/problem/1719/A)
