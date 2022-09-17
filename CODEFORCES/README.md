@@ -65,3 +65,7 @@
 
 **15. A. Chip Game**
 (https://codeforces.com/problemset/problem/1719/A)
+
+
+**16. B. Beautiful Array { 1715 B }**
+(https://codeforces.com/problemset/problem/1715/B)
