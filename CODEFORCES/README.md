@@ -72,3 +72,6 @@
 
 **17. B. BasketBall Together { 1725 }**
 (https://codeforces.com/problemset/problem/1725/B)
+
+**18.   . Digital Lograthim { 1728 }**
+(https://codeforces.com/problemset/problem/1728/C)
