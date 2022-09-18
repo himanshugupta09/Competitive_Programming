@@ -75,3 +75,6 @@
 
 **18.   . Digital Lograthim { 1728 }**
 (https://codeforces.com/problemset/problem/1728/C)
+
+**19.  A. Cross Market { 1715 A }**
+(https://codeforces.com/problemset/problem/1715/A)
