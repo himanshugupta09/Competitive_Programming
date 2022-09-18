@@ -69,3 +69,6 @@
 
 **16. B. Beautiful Array { 1715 B }**
 (https://codeforces.com/problemset/problem/1715/B)
+
+**17. B. BasketBall Together { 1725 }**
+(https://codeforces.com/problemset/problem/1725/B)
