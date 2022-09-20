@@ -78,3 +78,6 @@
 
 **19.  A. Cross Market { 1715 A }**
 (https://codeforces.com/problemset/problem/1715/A)
+
+**20.  B. Rmove Prefix { 1714 B }**
+(https://codeforces.com/problemset/problem/1714/B)
