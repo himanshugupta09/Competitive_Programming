@@ -81,3 +81,7 @@
 
 **20.  B. Rmove Prefix { 1714 B }**
 (https://codeforces.com/problemset/problem/1714/B)
+
+
+**21.  A.  Everyone Loves To Sleep { 1714 A }**
+(https://codeforces.com/problemset/problem/1714/A)
