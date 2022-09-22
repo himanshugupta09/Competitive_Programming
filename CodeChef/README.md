@@ -34,3 +34,6 @@
 
 **10.  Maximum Expression  { STARTERS 57 }**
 (https://www.codechef.com/submit/MAXEXP?tab=statement)
+
+**11.  TWO DIFFERENT PALINDROMES { STARTERS 57 }**
+(https://www.codechef.com/submit/TWODIFFPALIN?tab=statement)
