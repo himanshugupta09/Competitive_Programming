@@ -37,3 +37,6 @@
 
 **11.  TWO DIFFERENT PALINDROMES { STARTERS 57 }**
 (https://www.codechef.com/submit/TWODIFFPALIN?tab=statement)
+
+**12.  Even Splits { STARTERS 57 }**
+(https://www.codechef.com/submit/EVENSPLIT)
