@@ -31,3 +31,6 @@
 
 **9. Lucky Number Game**
 (https://www.codechef.com/submit/HP18?tab=statement)
+
+**10.  Maximum Expression  { STARTERS 57 }**
+(https://www.codechef.com/submit/MAXEXP?tab=statement)
