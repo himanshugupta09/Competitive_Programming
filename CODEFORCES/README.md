@@ -92,3 +92,5 @@
 **23.  C. Removing Smallest Multiples { 1734 }**
 (https://codeforces.com/problemset/problem/1734/C)
 
+**24.  B. Bright, Nice, Brilliant { 1734 }**
+(https://codeforces.com/problemset/problem/1734/B)
