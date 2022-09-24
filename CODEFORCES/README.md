@@ -85,3 +85,6 @@
 
 **21.  A.  Everyone Loves To Sleep { 1714 A }**
 (https://codeforces.com/problemset/problem/1714/A)
+
+**22.  A.  Select Three Sticks { 1734 A }**
+(https://codeforces.com/problemset/problem/1734/A)
