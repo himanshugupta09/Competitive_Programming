@@ -88,3 +88,7 @@
 
 **22.  A.  Select Three Sticks { 1734 A }**
 (https://codeforces.com/problemset/problem/1734/A)
+
+**23.  C. Removing Smallest Multiples { 1734 }**
+(https://codeforces.com/problemset/problem/1734/C)
+
