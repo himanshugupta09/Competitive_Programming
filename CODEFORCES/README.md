@@ -94,3 +94,6 @@
 
 **24.  B. Bright, Nice, Brilliant { 1734 }**
 (https://codeforces.com/problemset/problem/1734/B)
+
+**25. B. Rules of League {1733 }**
+(https://codeforces.com/problemset/problem/1733/B)
