@@ -97,3 +97,6 @@
 
 **25. B. Rules of League {1733 }**
 (https://codeforces.com/problemset/problem/1733/B)
+
+**26. C. Sum of Substrings { 1691 C }**
+(https://codeforces.com/problemset/problem/1691/C)
