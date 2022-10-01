@@ -100,3 +100,6 @@
 
 **26. C. Sum of Substrings { 1691 C }**
 (https://codeforces.com/problemset/problem/1691/C)
+
+**27.  B. I Hate-1111**
+(https://codeforces.com/contest/1526/problem/B)
