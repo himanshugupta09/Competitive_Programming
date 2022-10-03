@@ -40,3 +40,6 @@
 
 **12.  Even Splits { STARTERS 57 }**
 (https://www.codechef.com/submit/EVENSPLIT)
+
+**13.  Equal Difference**
+(https://www.codechef.com/submit/EQDIFFER?tab=statement)
