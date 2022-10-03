@@ -43,3 +43,6 @@
 
 **13.  Equal Difference**
 (https://www.codechef.com/submit/EQDIFFER?tab=statement)
+
+*14.  Chef And Magical Jars**
+(https://www.codechef.com/submit/MAGICJAR?tab=statement)
