@@ -46,3 +46,7 @@
 
 *14.  Chef And Magical Jars**
 (https://www.codechef.com/submit/MAGICJAR?tab=statement)
+
+
+**15.  Longest AND Subarray**
+(https://www.codechef.com/submit/ANDSUBAR?tab=statement)
