@@ -50,3 +50,7 @@
 
 **15.  Longest AND Subarray**
 (https://www.codechef.com/submit/ANDSUBAR?tab=statement)
+
+
+**16.   Subarray Permutations**
+(https://www.codechef.com/problems/SUBPERM)
