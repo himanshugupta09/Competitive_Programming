@@ -54,3 +54,6 @@
 
 **16.   Subarray Permutations**
 (https://www.codechef.com/problems/SUBPERM)
+
+**17.    Xor Equality**
+(https://www.codechef.com/problems/XOREQUAL)
