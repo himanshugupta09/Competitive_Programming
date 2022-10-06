@@ -57,3 +57,6 @@
 
 **17.    Xor Equality**
 (https://www.codechef.com/problems/XOREQUAL)
+
+**18.  Maximum Subarray**
+(https://www.codechef.com/problems/MAXSUBARR)
