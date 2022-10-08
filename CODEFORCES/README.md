@@ -103,3 +103,6 @@
 
 **27.  B. I Hate-1111**
 (https://codeforces.com/contest/1526/problem/B)
+
+**28.  A. Ela Sorting Books { 1737 }
+(https://codeforces.com/contest/1737/problem/A)
