@@ -106,3 +106,6 @@
 
 **28.  A. Ela Sorting Books { 1737 }**
 (https://codeforces.com/contest/1737/problem/A)
+
+**29.    A. Comparing T-Shirt Sizes { 1741 }**
+(https://codeforces.com/contest/1741/problem/A)
