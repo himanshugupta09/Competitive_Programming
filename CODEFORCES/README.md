@@ -109,3 +109,7 @@
 
 **29.    A. Comparing T-Shirt Sizes { 1741 }**
 (https://codeforces.com/contest/1741/problem/A)
+
+
+**30.    B. Funnny Permuattion { 1741 }**
+(https://codeforces.com/contest/1741/problem/B)
