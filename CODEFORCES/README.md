@@ -113,3 +113,10 @@
 
 **30.    B. Funnny Permuattion { 1741 }**
 (https://codeforces.com/contest/1741/problem/B)
+
+
+**31.   E. Scuza { 1742 }**
+(https://codeforces.com/contest/1742/problem/E)
+
+**32.  D.  Cprime {1742 }**
+(https://codeforces.com/contest/1742/problem/D)
