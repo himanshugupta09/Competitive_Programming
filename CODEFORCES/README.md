@@ -120,3 +120,6 @@
 
 **32.  D.  Cprime {1742 }**
 (https://codeforces.com/contest/1742/problem/D)
+
+**33.   CodeForces Global_23_ B. Rebelion {1746 }**
+(https://codeforces.com/contest/1746/problem/B)
