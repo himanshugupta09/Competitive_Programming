@@ -123,3 +123,7 @@
 
 **33.   CodeForces Global_23_ B. Rebelion {1746 }**
 (https://codeforces.com/contest/1746/problem/B)
+
+
+**34.  A_._Cards_for_friends { 1472 }**
+(https://codeforces.com/contest/1472/problem/A)
