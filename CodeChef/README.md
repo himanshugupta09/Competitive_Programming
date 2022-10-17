@@ -60,3 +60,7 @@
 
 **18.  Maximum Subarray**
 (https://www.codechef.com/problems/MAXSUBARR)
+
+
+** 19. Distinct Numbers **
+(https://www.codechef.com/submit/DISKMOV)
