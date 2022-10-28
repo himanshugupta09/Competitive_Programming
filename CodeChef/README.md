@@ -68,3 +68,6 @@
 
 **20.  Bear And the Extra Number**
 (https://www.codechef.com/problems/EXTRAN)
+
+**21.  Mninimise LCS {MINLCS}**
+(https://www.codechef.com/problems/MINLCS)
