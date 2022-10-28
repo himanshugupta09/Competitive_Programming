@@ -64,3 +64,7 @@
 
 ** 19. Distinct Numbers **
 (https://www.codechef.com/submit/DISKMOV)
+
+
+**20.  Bear And the Extra Number**
+(https://www.codechef.com/problems/EXTRAN)
