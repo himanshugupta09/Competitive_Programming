@@ -127,3 +127,7 @@
 
 **34.  A_._Cards_for_friends { 1472 }**
 (https://codeforces.com/contest/1472/problem/A)
+
+
+**35.  Factorize N+M**
+(https://codeforces.com/contest/1740/problem/A)
