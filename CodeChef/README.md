@@ -71,3 +71,7 @@
 
 **21.  Mninimise LCS {MINLCS}**
 (https://www.codechef.com/problems/MINLCS)
+
+
+**22.  How Many Maximums**
+(https://www.codechef.com/problems/HOWMANYMAX)
