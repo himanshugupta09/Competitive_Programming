@@ -75,3 +75,6 @@
 
 **22.  How Many Maximums**
 (https://www.codechef.com/problems/HOWMANYMAX)
+
+**23.   Brackets**
+(https://www.codechef.com/problems/BRACKETS)
