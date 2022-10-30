@@ -82,3 +82,6 @@
 
 **24.  Jumping the Hills**
 (https://www.codechef.com/problems/HILLS)
+
+**25.  False Number**
+(https://www.codechef.com/problems/FALSNUM)
