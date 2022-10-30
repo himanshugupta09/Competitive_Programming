@@ -85,3 +85,6 @@
 
 **25.  False Number**
 (https://www.codechef.com/problems/FALSNUM)
+
+**26.   Sticks**
+(https://www.codechef.com/problems/STICKS)
