@@ -78,3 +78,7 @@
 
 **23.   Brackets**
 (https://www.codechef.com/problems/BRACKETS)
+
+
+**24.  Jumping the Hills**
+(https://www.codechef.com/problems/HILLS)
