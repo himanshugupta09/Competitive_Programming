@@ -88,3 +88,6 @@
 
 **26.   Sticks**
 (https://www.codechef.com/problems/STICKS)
+
+**27.  Hotel BytelIndia**
+(https://www.codechef.com/problems/HOTEL)
