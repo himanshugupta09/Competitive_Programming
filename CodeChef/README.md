@@ -99,3 +99,8 @@
 
 **29. Substring of Substring**
 (https://www.codechef.com/problems/SUBSTRING)
+
+
+
+**30. Alternating Subarray**
+(https://www.codechef.com/problems/ALTARAY)
