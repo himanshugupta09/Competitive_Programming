@@ -95,3 +95,7 @@
 
 **28. Valentines Couples**
 (https://www.codechef.com/problems/VCOUPLE)
+
+
+**29. Substring of Substring**
+(https://www.codechef.com/problems/SUBSTRING)
