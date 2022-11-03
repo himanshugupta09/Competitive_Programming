@@ -131,3 +131,7 @@
 
 **35.  Factorize N+M**
 (https://codeforces.com/contest/1740/problem/A)
+
+
+**36.   1754 A Technical Support**
+(https://codeforces.com/problemset/problem/1754/A)
