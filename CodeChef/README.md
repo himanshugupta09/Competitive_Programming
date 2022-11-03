@@ -104,3 +104,6 @@
 
 **30. Alternating Subarray**
 (https://www.codechef.com/problems/ALTARAY)
+
+**31.  Chef And the String**
+(https://www.codechef.com/problems/RECNDSTR)
