@@ -107,3 +107,7 @@
 
 **31.  Chef And the String**
 (https://www.codechef.com/problems/RECNDSTR)
+
+
+**32.  Professor And Dierections**
+(https://www.codechef.com/problems/DIRECTN)
