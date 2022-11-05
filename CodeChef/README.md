@@ -111,3 +111,6 @@
 
 **32.  Professor And Dierections**
 (https://www.codechef.com/problems/DIRECTN)
+
+**33. One Xor Deletions**
+(https://www.codechef.com/problems/DELXORONE)
