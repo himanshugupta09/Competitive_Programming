@@ -121,3 +121,6 @@
 
 **35.Cops And Thief Devu**
 (https://www.codechef.com/problems/COPS)
+
+**36. Mix The Colors**
+(https://www.codechef.com/problems/MIXCOLOR)
