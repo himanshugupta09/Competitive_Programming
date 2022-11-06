@@ -114,3 +114,8 @@
 
 **33. One Xor Deletions**
 (https://www.codechef.com/problems/DELXORONE)
+
+
+**34. Chef in Fantasy League**
+(https://www.codechef.com/problems/FFL)
+
