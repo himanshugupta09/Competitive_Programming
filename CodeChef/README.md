@@ -124,3 +124,7 @@
 
 **36. Mix The Colors**
 (https://www.codechef.com/problems/MIXCOLOR)
+
+
+**37. Space Arrays**
+(https://www.codechef.com/problems/SPACEARR)
