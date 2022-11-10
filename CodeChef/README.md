@@ -135,3 +135,6 @@
 
 **39. Subanagrams**
 (https://www.codechef.com/problems/SUBANAGR)
+
+**40.  Prime Factor Division**
+(https://www.codechef.com/problems/PRIMEFACDIV)
