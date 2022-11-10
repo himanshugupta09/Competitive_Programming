@@ -135,3 +135,6 @@
 
 **36.   1754 A Technical Support**
 (https://codeforces.com/problemset/problem/1754/A)
+
+**37. RANGE ASSIGN**
+(https://www.codechef.com/problems/RANGEASSIGN)
