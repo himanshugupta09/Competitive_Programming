@@ -138,3 +138,7 @@
 
 **40.  Prime Factor Division**
 (https://www.codechef.com/problems/PRIMEFACDIV)
+
+
+**41.  Average Number**
+(https://www.codechef.com/problems/AVG)
