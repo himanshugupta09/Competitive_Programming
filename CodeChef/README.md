@@ -142,3 +142,7 @@
 
 **41.  Average Number**
 (https://www.codechef.com/problems/AVG)
+
+
+**42. The Largest Bouquet**
+(https://www.codechef.com/problems/BOUQUET)
