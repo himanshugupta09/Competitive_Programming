@@ -146,3 +146,6 @@
 
 **42. The Largest Bouquet**
 (https://www.codechef.com/problems/BOUQUET)
+
+**43. Lack of Logic**
+(https://www.codechef.com/problems/NOLOGIC)
