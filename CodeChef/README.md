@@ -149,3 +149,7 @@
 
 **43. Lack of Logic**
 (https://www.codechef.com/problems/NOLOGIC)
+
+
+**44. Plagraism**
+(https://www.codechef.com/problems/QUIZPLAG)
