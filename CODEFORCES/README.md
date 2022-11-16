@@ -138,3 +138,6 @@
 
 **37. RANGE ASSIGN**
 (https://www.codechef.com/problems/RANGEASSIGN)
+
+**38. 1475 C Ball in Berland**
+(https://codeforces.com/contest/1475/problem/C)
