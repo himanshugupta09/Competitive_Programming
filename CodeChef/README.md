@@ -157,5 +157,6 @@
 **45. Tennis Tournament**
 (https://www.codechef.com/problems/EXUNB)
 
-
+**46. Counting Inversions Revisited**
+(https://www.codechef.com/problems/INVYCNT)
 
