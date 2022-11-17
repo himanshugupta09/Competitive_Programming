@@ -160,3 +160,5 @@
 **46. Counting Inversions Revisited**
 (https://www.codechef.com/problems/INVYCNT)
 
+**47. Mighty Friend**
+(https://www.codechef.com/problems/MTYFRI)
