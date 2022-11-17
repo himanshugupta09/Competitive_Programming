@@ -162,3 +162,6 @@
 
 **47. Mighty Friend**
 (https://www.codechef.com/problems/MTYFRI)
+
+**48. Pairwise XOR**
+(https://www.codechef.com/problems/XORABC)
