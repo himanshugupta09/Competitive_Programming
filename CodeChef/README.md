@@ -165,3 +165,7 @@
 
 **48. Pairwise XOR**
 (https://www.codechef.com/problems/XORABC)
+
+
+**49. Fast Food**
+(https://www.codechef.com/problems/FASTFOOD)
