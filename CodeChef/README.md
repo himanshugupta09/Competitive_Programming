@@ -169,3 +169,6 @@
 
 **49. Fast Food**
 (https://www.codechef.com/problems/FASTFOOD)
+
+**50.Magda and Silly Pairs**
+(https://www.codechef.com/problems/SILLYPRS)
