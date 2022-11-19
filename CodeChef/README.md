@@ -172,3 +172,6 @@
 
 **50.Magda and Silly Pairs**
 (https://www.codechef.com/problems/SILLYPRS)
+
+**51. Beauriful Garland {BEAUTGAR}**
+(https://www.codechef.com/problems/BEAUTGAR)
