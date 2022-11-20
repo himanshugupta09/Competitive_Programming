@@ -175,3 +175,6 @@
 
 **51. Beauriful Garland {BEAUTGAR}**
 (https://www.codechef.com/problems/BEAUTGAR)
+
+**52. Bench Press**
+(https://www.codechef.com/problems/BENCHP)
