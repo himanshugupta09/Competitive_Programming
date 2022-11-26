@@ -181,3 +181,6 @@
 
 **53. Birthday Gifts**
 (https://www.codechef.com/problems/TWINGFT)
+
+**54. Chef and the Problem Setting**
+(https://www.codechef.com/problems/PROBSET)
