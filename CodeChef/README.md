@@ -190,3 +190,6 @@
 
 **56.Chef and Lockout Draws**
 (https://www.codechef.com/problems/LOCKDRAW)
+
+**57. Make it Divisible**
+(https://www.codechef.com/LP2TO301/problems/MAKEDIV3)
