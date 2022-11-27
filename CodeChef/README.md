@@ -184,3 +184,7 @@
 
 **54. Chef and the Problem Setting**
 (https://www.codechef.com/problems/PROBSET)
+
+**55. Different Medians**
+(https://www.codechef.com/problems/DIFFMED)
+
