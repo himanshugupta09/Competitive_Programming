@@ -188,3 +188,5 @@
 **55. Different Medians**
 (https://www.codechef.com/problems/DIFFMED)
 
+**56.Chef and Lockout Draws**
+(https://www.codechef.com/problems/LOCKDRAW)
