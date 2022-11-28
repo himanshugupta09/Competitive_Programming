@@ -193,3 +193,7 @@
 
 **57. Make it Divisible**
 (https://www.codechef.com/LP2TO301/problems/MAKEDIV3)
+
+
+**58. Shortest Path in Binary Trees**
+(https://www.codechef.com/problems/BINTREE)
