@@ -197,3 +197,7 @@
 
 **58. Shortest Path in Binary Trees**
 (https://www.codechef.com/problems/BINTREE)
+
+
+**59. Remove Element { REMELEM}**
+(https://www.codechef.com/problems/REMELEM)
