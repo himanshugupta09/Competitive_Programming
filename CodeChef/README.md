@@ -201,3 +201,6 @@
 
 **59. Remove Element { REMELEM}**
 (https://www.codechef.com/problems/REMELEM)
+
+**60. Palindrome By Splitting { SPLIPAL }**
+(https://www.codechef.com/problems/SPLITPAL)
