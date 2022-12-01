@@ -208,3 +208,6 @@
 
 **61. Maximum Angriness**
 (https://www.codechef.com/problems/MAXAGRY)
+
+**62. Chef And Magical Path**
+(https://www.codechef.com/problems/CHEFPATH)
