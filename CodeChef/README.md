@@ -204,3 +204,7 @@
 
 **60. Palindrome By Splitting { SPLIPAL }**
 (https://www.codechef.com/problems/SPLITPAL)
+
+
+**61. Maximum Angriness**
+(https://www.codechef.com/problems/MAXAGRY)
