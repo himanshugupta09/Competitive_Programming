@@ -211,3 +211,6 @@
 
 **62. Chef And Magical Path**
 (https://www.codechef.com/problems/CHEFPATH)
+
+**63. Courses in an University**
+(https://www.codechef.com/problems/UNICOURS)
