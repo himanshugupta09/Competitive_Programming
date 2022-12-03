@@ -214,3 +214,6 @@
 
 **63. Courses in an University**
 (https://www.codechef.com/problems/UNICOURS)
+
+**64. Knight Chess { KCHESS }**
+(https://www.codechef.com/problems/KCHESS)
