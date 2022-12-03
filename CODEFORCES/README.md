@@ -144,3 +144,7 @@
 
 **39. 1165 A Reaminder**
 (https://codeforces.com/contest/1165/problem/A)
+
+
+**40. 1765 M Minimum LCM**
+(https://codeforces.com/problemset/problem/1765/M)
