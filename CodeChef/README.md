@@ -217,3 +217,6 @@
 
 **64. Knight Chess { KCHESS }**
 (https://www.codechef.com/problems/KCHESS)
+
+**65. Subarray Removal { SUBARRAYREM}**
+(https://www.codechef.com/problems/SUBARRAYREM)
