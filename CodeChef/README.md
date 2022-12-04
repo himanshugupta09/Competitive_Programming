@@ -220,3 +220,6 @@
 
 **65. Subarray Removal { SUBARRAYREM}**
 (https://www.codechef.com/problems/SUBARRAYREM)
+
+**66. Chef And the Easy Problem  {CHEFA}**
+(https://www.codechef.com/problems/CHEFA)
