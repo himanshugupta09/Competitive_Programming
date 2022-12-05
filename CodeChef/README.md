@@ -223,3 +223,7 @@
 
 **66. Chef And the Easy Problem  {CHEFA}**
 (https://www.codechef.com/problems/CHEFA)
+
+
+**67. Fit to play { PLAYFIT }**
+(https://www.codechef.com/problems/PLAYFIT)
