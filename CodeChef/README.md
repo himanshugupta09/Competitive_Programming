@@ -227,3 +227,7 @@
 
 **67. Fit to play { PLAYFIT }**
 (https://www.codechef.com/problems/PLAYFIT)
+
+
+**68.Good Binary Strings**
+(https://www.codechef.com/problems/GOODBINSTR)
