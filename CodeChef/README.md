@@ -231,3 +231,6 @@
 
 **68.Good Binary Strings**
 (https://www.codechef.com/problems/GOODBINSTR)
+
+**69. Equality**
+(https://www.codechef.com/problems/EQUALITY?tab=statement)
