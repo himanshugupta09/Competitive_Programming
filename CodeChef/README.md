@@ -238,3 +238,6 @@
 
 **70. GCD of Subarrays**
 (https://www.codechef.com/problems/GCDSUBARRAYS)
+
+**71. Maximise XOR**
+(https://www.codechef.com/problems/XORMAX)
