@@ -148,3 +148,7 @@
 
 **40. 1765 M Minimum LCM**
 (https://codeforces.com/problemset/problem/1765/M)
+
+
+**41. 1765 B. Broken Board**
+(https://codeforces.com/problemset/problem/1765/B)
