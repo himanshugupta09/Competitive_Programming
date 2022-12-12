@@ -234,3 +234,7 @@
 
 **69. Equality**
 (https://www.codechef.com/problems/EQUALITY?tab=statement)
+
+
+**70. GCD of Subarrays**
+(https://www.codechef.com/problems/GCDSUBARRAYS)
