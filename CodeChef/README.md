@@ -241,3 +241,6 @@
 
 **71. Maximise XOR**
 (https://www.codechef.com/problems/XORMAX)
+
+**72.  Weapon Value**
+(https://www.codechef.com/problems/SC31?tab=statement)
