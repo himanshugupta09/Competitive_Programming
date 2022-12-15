@@ -244,3 +244,6 @@
 
 **72.  Weapon Value**
 (https://www.codechef.com/problems/SC31?tab=statement)
+
+*73. Broken Telephone**
+(https://www.codechef.com/problems/BROKPHON)
