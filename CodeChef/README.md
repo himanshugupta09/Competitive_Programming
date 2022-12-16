@@ -247,3 +247,6 @@
 
 *73. Broken Telephone**
 (https://www.codechef.com/problems/BROKPHON)
+
+**74. Making a Meal**
+(https://www.codechef.com/problems/CFMM?tab=statement)
