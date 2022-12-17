@@ -250,3 +250,6 @@
 
 **74. Making a Meal**
 (https://www.codechef.com/problems/CFMM?tab=statement)
+
+**75. Drumf for President**
+(https://www.codechef.com/problems/STUDVOTE?tab=statement)
