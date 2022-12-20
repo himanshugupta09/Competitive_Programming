@@ -256,3 +256,7 @@
 
 **76. Top Batsmen**
 (https://www.codechef.com/problems/BESTBATS)
+
+
+**77. Chef and digits of a number**
+(https://www.codechef.com/problems/LONGSEQ)
