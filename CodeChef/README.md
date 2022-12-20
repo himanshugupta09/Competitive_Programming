@@ -260,3 +260,7 @@
 
 **77. Chef and digits of a number**
 (https://www.codechef.com/problems/LONGSEQ)
+
+
+**78. Akash and Dinner**
+(https://www.codechef.com/problems/CHEFDINE)
