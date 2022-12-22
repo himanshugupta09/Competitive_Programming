@@ -268,3 +268,6 @@
 
 **79. ICPC Ballons**
 (https://www.codechef.com/problems/BALLOON?tab=statement)
+
+**80.New Piece**
+(https://www.codechef.com/problems/NEWPIECE?tab=statement)
