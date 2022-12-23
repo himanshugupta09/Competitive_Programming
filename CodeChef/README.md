@@ -271,3 +271,6 @@
 
 **80.New Piece**
 (https://www.codechef.com/problems/NEWPIECE?tab=statement)
+
+**81. Minimum distance between 1's**
+(https://www.codechef.com/problems/MINDIST1?tab=statement)
