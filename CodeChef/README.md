@@ -274,3 +274,7 @@
 
 **81. Minimum distance between 1's**
 (https://www.codechef.com/problems/MINDIST1?tab=statement)
+
+
+**82. A Subtask Problem**
+(https://www.codechef.com/problems/SUBTASK)
