@@ -278,3 +278,6 @@
 
 **82. A Subtask Problem**
 (https://www.codechef.com/problems/SUBTASK)
+
+**83. Chef and Gift**
+(https://www.codechef.com/problems/PRGIFT)
