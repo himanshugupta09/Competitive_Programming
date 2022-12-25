@@ -154,5 +154,5 @@
 (https://codeforces.com/problemset/problem/1765/B)
 
 
-**SPEEDFORCES   A. And Zero**
+**42.  SPEEDFORCES   A. And Zero**
 (https://codeforces.com/gym/418314/problem/A)
