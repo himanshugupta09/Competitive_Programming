@@ -152,3 +152,7 @@
 
 **41. 1765 B. Broken Board**
 (https://codeforces.com/problemset/problem/1765/B)
+
+
+**SPEEDFORCES   A. And Zero**
+(https://codeforces.com/gym/418314/problem/A)
