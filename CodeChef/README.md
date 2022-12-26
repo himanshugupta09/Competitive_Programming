@@ -281,3 +281,6 @@
 
 **83. Chef and Gift**
 (https://www.codechef.com/problems/PRGIFT)
+
+**84. Average Array**
+(https://www.codechef.com/problems/AVGARR?tab=statement)
