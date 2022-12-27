@@ -284,3 +284,6 @@
 
 **84. Average Array**
 (https://www.codechef.com/problems/AVGARR?tab=statement)
+
+**85.  Convert to Permutation**
+(https://www.codechef.com/problems/PERMUTATION)
