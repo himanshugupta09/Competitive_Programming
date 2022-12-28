@@ -287,3 +287,6 @@
 
 **85.  Convert to Permutation**
 (https://www.codechef.com/problems/PERMUTATION)
+
+**86. Prime Reversal**
+(https://www.codechef.com/problems/PRIMEREVERSE)
