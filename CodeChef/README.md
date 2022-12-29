@@ -293,3 +293,6 @@
 
 **87. Equal MEX Splitting**
 (https://www.codechef.com/problems/MEXSPLIT?tab=statement)
+
+**88. Pet Store**
+(https://www.codechef.com/START71D/problems/PETSTORE)
