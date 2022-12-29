@@ -296,3 +296,9 @@
 
 **88. Pet Store**
 (https://www.codechef.com/START71D/problems/PETSTORE)
+
+**89. Flip The Prefix**
+(https://www.codechef.com/START71D/problems/PREFIXFLIP)
+
+**90. Maximizing LCS**
+(https://www.codechef.com/START71D/problems/MAXLCS)
