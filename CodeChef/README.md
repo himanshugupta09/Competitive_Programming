@@ -290,3 +290,6 @@
 
 **86. Prime Reversal**
 (https://www.codechef.com/problems/PRIMEREVERSE)
+
+**87. Equal MEX Splitting**
+(https://www.codechef.com/problems/MEXSPLIT?tab=statement)
