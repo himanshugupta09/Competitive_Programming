@@ -156,3 +156,6 @@
 
 **42.  SPEEDFORCES   A. And Zero**
 (https://codeforces.com/gym/418314/problem/A)
+
+**43. 1766_B. NotePad#**
+(https://codeforces.com/problemset/problem/1766/B)
