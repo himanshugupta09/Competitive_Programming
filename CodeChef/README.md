@@ -302,3 +302,6 @@
 
 **90. Maximizing LCS**
 (https://www.codechef.com/START71D/problems/MAXLCS)
+
+**91. Watson asks Does Permuatation Exists**
+(https://www.codechef.com/problems/PERMEXIS)
