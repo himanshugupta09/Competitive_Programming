@@ -159,3 +159,6 @@
 
 **43. 1766_B. NotePad#**
 (https://codeforces.com/problemset/problem/1766/B)
+
+**44. 1767 A. Cut The Traingle**
+(https://codeforces.com/problemset/problem/1767/A)
