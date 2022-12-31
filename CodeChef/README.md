@@ -305,3 +305,6 @@
 
 **91. Watson asks Does Permuatation Exists**
 (https://www.codechef.com/problems/PERMEXIS)
+
+**92. Divide The Cake**
+(https://www.codechef.com/problems/ANUDTC)
