@@ -308,3 +308,6 @@
 
 **92. Divide The Cake**
 (https://www.codechef.com/problems/ANUDTC)
+
+**93. Indivisible Permutation**
+(https://www.codechef.com/LP2TO301/problems/INDIPERM?tab=statement)
