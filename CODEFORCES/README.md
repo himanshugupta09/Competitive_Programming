@@ -162,3 +162,6 @@
 
 **44. 1767 A. Cut The Traingle**
 (https://codeforces.com/problemset/problem/1767/A)
+
+**45.  1774A - Add Plus Minus Sign**
+(https://codeforces.com/problemset/problem/1774/A)
