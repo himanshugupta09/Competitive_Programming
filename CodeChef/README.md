@@ -311,3 +311,7 @@
 
 **93. Indivisible Permutation**
 (https://www.codechef.com/LP2TO301/problems/INDIPERM?tab=statement)
+
+
+**94.  Frequency Array Retrival**
+(https://www.codechef.com/problems/FREQARRRET)
