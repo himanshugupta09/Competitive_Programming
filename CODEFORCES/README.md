@@ -165,3 +165,6 @@
 
 **45.  1774A - Add Plus Minus Sign**
 (https://codeforces.com/problemset/problem/1774/A)
+
+**46.  1771A - Hossam and Combinatorics**
+(https://codeforces.com/problemset/problem/1771/A)
