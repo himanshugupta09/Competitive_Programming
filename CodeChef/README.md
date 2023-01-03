@@ -316,5 +316,5 @@
 **94.  Frequency Array Retrival**
 (https://www.codechef.com/problems/FREQARRRET)
 
-**95.\t\t Guessing Game**
+**95. Guessing Game**
 (https://www.codechef.com/problems/GUESS)
