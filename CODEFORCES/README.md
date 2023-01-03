@@ -168,3 +168,6 @@
 
 **46.  1771A - Hossam and Combinatorics**
 (https://codeforces.com/problemset/problem/1771/A)
+
+**47. 1766A - Extremely Round**
+(https://codeforces.com/problemset/problem/1766/A)
