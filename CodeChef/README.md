@@ -318,3 +318,7 @@
 
 **95. Guessing Game**
 (https://www.codechef.com/problems/GUESS)
+
+
+**96. Ada MAtrix**
+(https://www.codechef.com/problems/ADAMAT?tab=statement)
