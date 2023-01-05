@@ -322,3 +322,6 @@
 
 **96. Ada MAtrix**
 (https://www.codechef.com/problems/ADAMAT?tab=statement)
+
+**97. N Triplets**
+(https://www.codechef.com/problems/NTRIPLETS?tab=statement)
