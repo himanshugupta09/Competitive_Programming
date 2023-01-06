@@ -325,3 +325,6 @@
 
 **97. N Triplets**
 (https://www.codechef.com/problems/NTRIPLETS?tab=statement)
+
+**98. No Sequence**
+(https://www.codechef.com/problems/NOSEQ)
