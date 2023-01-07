@@ -328,3 +328,6 @@
 
 **98. No Sequence**
 (https://www.codechef.com/problems/NOSEQ)
+
+**99. Prefix Sum**
+(https://www.codechef.com/problems/UNQEQ)
