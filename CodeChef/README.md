@@ -331,3 +331,8 @@
 
 **99. Prefix Sum**
 (https://www.codechef.com/problems/UNQEQ)
+
+
+**100. Litlle Elephant and Strings**
+**[String Matching , KMP Algorithm, Rabin Karp]**
+(https://www.codechef.com/problems/LUCKYSTR?tab=statement)
