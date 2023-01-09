@@ -336,3 +336,8 @@
 **100. Litlle Elephant and Strings**
 **[String Matching , KMP Algorithm, Rabin Karp]**
 (https://www.codechef.com/problems/LUCKYSTR?tab=statement)
+
+
+**101. Parallel Processing**
+**Topic --> Prefix Sum**
+(https://www.codechef.com/problems/PLPROCESS?tab=statement)
