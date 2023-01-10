@@ -345,3 +345,7 @@
 
 **102. Minimum Number of Pizzas**
 (https://www.codechef.com/LP2TO301/problems/MINPIZZAS?tab=statement)
+
+
+**103. Distinct Pair Sums**
+(https://www.codechef.com/LP2TO301/problems/MANYSUMS)
