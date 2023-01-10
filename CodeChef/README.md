@@ -341,3 +341,7 @@
 **101. Parallel Processing**
 **Topic --> Prefix Sum**
 (https://www.codechef.com/problems/PLPROCESS?tab=statement)
+
+
+**102. Minimum Number of Pizzas**
+(https://www.codechef.com/LP2TO301/problems/MINPIZZAS?tab=statement)
