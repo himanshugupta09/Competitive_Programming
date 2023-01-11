@@ -349,3 +349,6 @@
 
 **103. Distinct Pair Sums**
 (https://www.codechef.com/LP2TO301/problems/MANYSUMS)
+
+**104. Sums in a Triangle   { Dynammic Programming }**
+(https://www.codechef.com/problems/SUMTRIAN?tab=statement)
