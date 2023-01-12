@@ -352,3 +352,7 @@
 
 **104. Sums in a Triangle   { Dynammic Programming }**
 (https://www.codechef.com/problems/SUMTRIAN?tab=statement)
+
+
+**105. Penalty Shoot Outs**
+(https://www.codechef.com/problems/CPLAY?tab=statement)
