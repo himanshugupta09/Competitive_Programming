@@ -356,3 +356,7 @@
 
 **105. Penalty Shoot Outs**
 (https://www.codechef.com/problems/CPLAY?tab=statement)
+
+
+**106. Say No To Drugs**
+(https://www.codechef.com/problems/NODRUGS)
