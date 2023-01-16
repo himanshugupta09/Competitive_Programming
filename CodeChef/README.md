@@ -360,3 +360,6 @@
 
 **106. Say No To Drugs**
 (https://www.codechef.com/problems/NODRUGS)
+
+**107. Asymmetric Swaps**
+(https://www.codechef.com/problems/ARRSWAP)
