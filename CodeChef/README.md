@@ -363,3 +363,7 @@
 
 **107. Asymmetric Swaps**
 (https://www.codechef.com/problems/ARRSWAP)
+
+
+**108. Full Alchemist Barrier**
+(https://www.codechef.com/problems/PIPSQUIK?tab=statement)
