@@ -367,3 +367,7 @@
 
 **108. Full Alchemist Barrier**
 (https://www.codechef.com/problems/PIPSQUIK?tab=statement)
+
+
+**109. Sum Queries**
+(https://www.codechef.com/problems/RRSUM?tab=statement)
