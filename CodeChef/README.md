@@ -371,3 +371,6 @@
 
 **109. Sum Queries**
 (https://www.codechef.com/problems/RRSUM?tab=statement)
+
+**110. Chef And Babla**
+(https://www.codechef.com/problems/BAB_I?tab=statement)
