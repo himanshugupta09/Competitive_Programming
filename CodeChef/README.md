@@ -374,3 +374,7 @@
 
 **110. Chef And Babla**
 (https://www.codechef.com/problems/BAB_I?tab=statement)
+
+
+**111. Append for OR { Bit MAnipulation }**
+(https://www.codechef.com/problems/APPENDOR?tab=statement)
