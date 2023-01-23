@@ -378,3 +378,7 @@
 
 **111. Append for OR { Bit MAnipulation }**
 (https://www.codechef.com/problems/APPENDOR?tab=statement)
+
+
+**112. Consecutive Xor { Bitwise Manipulation }**
+(https://www.codechef.com/problems/XOR2?tab=statement)
