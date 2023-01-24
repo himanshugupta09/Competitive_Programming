@@ -382,3 +382,6 @@
 
 **112. Consecutive Xor { Bitwise Manipulation }**
 (https://www.codechef.com/problems/XOR2?tab=statement)
+
+**113. Find an Integer**
+(https://www.codechef.com/problems/SUMDIV2?tab=statement)
