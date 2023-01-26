@@ -385,3 +385,6 @@
 
 **113. Find an Integer**
 (https://www.codechef.com/problems/SUMDIV2?tab=statement)
+
+**114. Arra Halves**
+(https://www.codechef.com/problems/ARRHALVES?tab=statement)
