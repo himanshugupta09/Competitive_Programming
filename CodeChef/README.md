@@ -388,3 +388,6 @@
 
 **114. Arra Halves**
 (https://www.codechef.com/problems/ARRHALVES?tab=statement)
+
+**115. Three Powers of Two**
+(https://www.codechef.com/problems/THREEPOW2?tab=statement)
