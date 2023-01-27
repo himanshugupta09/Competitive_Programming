@@ -391,3 +391,6 @@
 
 **115. Three Powers of Two**
 (https://www.codechef.com/problems/THREEPOW2?tab=statement)
+
+**116. Prefix Ones**
+(https://www.codechef.com/problems/PREFONES?tab=statement)
