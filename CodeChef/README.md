@@ -394,3 +394,7 @@
 
 **116. Prefix Ones**
 (https://www.codechef.com/problems/PREFONES?tab=statement)
+
+
+**117. Slow Solution**
+(https://www.codechef.com/problems/SLOWSOLN)
