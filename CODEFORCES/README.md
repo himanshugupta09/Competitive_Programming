@@ -171,3 +171,6 @@
 
 **47. 1766A - Extremely Round**
 (https://codeforces.com/problemset/problem/1766/A)
+
+**# Round 847 Div 3 C Permutation { BFS , Graph }**
+(https://codeforces.com/contest/1790/problem/C)
