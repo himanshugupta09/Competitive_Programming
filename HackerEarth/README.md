@@ -9,3 +9,6 @@
 
 **2. Cost of Ballons**
 (https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/mojtaba-prepares-contest-29b2a044/)
+
+**3. The Power Sum**
+(https://www.hackerrank.com/challenges/the-power-sum/problem?isFullScreen=true)
