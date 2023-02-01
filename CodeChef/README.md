@@ -398,3 +398,7 @@
 
 **117. Slow Solution**
 (https://www.codechef.com/problems/SLOWSOLN)
+
+
+**118. Distinct Dilemma**
+(https://www.codechef.com/problems/DISTDILEM?tab=statement)
