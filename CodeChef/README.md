@@ -402,3 +402,8 @@
 
 **118. Distinct Dilemma**
 (https://www.codechef.com/problems/DISTDILEM?tab=statement)
+
+
+
+**119. Single Operation Part I**
+(https://www.codechef.com/problems/SINGLEOP1)
