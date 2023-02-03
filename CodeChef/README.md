@@ -415,3 +415,7 @@
 
 **121. Zero String**
 (https://www.codechef.com/problems/ZEROSTRING)
+
+
+**122. CodeChef Not Divisible**
+(https://www.codechef.com/problems/NOTDIVISIBLE?tab=statement)
