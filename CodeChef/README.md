@@ -407,3 +407,7 @@
 
 **119. Single Operation Part I**
 (https://www.codechef.com/problems/SINGLEOP1)
+
+
+**120. Smart Phone**
+(https://www.codechef.com/LRNDSA01/problems/ZCO14003?tab=statement)
