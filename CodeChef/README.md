@@ -411,3 +411,7 @@
 
 **120. Smart Phone**
 (https://www.codechef.com/LRNDSA01/problems/ZCO14003?tab=statement)
+
+
+**121. Zero String**
+(https://www.codechef.com/problems/ZEROSTRING)
