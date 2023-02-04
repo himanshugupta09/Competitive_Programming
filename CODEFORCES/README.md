@@ -178,3 +178,6 @@
 
 **# Round 849. Div 4 D. Distict Splits { Hashmaps }**
 (https://codeforces.com/contest/1791/problem/D)
+
+**# Round 849. DIV 4 F. Range Update Point Query { Binary Search }**
+(https://codeforces.com/contest/1791/problem/F)
