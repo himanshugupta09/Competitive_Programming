@@ -184,5 +184,4 @@
 
 
 **# 1718 B. Going To the Cinema**
-
 (https://codeforces.com/problemset/problem/1781/B)
