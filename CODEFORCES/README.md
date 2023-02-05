@@ -181,3 +181,7 @@
 
 **# Round 849. DIV 4 F. Range Update Point Query { Binary Search }**
 (https://codeforces.com/contest/1791/problem/F)
+
+
+**# 1718 B. Going To the Cinema**
+(https://codeforces.com/problemset/problem/1781/B)
