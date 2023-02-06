@@ -419,3 +419,7 @@
 
 **122. CodeChef Not Divisible**
 (https://www.codechef.com/problems/NOTDIVISIBLE?tab=statement)
+
+
+**123. Construct Array**
+(https://www.codechef.com/problems/CONSTRRAY)
