@@ -185,3 +185,7 @@
 
 **# 1718 B. Going To the Cinema**
 (https://codeforces.com/problemset/problem/1781/B)
+
+
+**# Round 849. 1719.G1 Teleporters**
+(https://codeforces.com/contest/1791/problem/G1)
