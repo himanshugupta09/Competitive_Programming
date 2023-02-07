@@ -189,3 +189,6 @@
 
 **# Round 849. 1719.G1 Teleporters**
 (https://codeforces.com/contest/1791/problem/G1)
+
+**#Round 142 A. 1792 Gaming Forces**
+(https://codeforces.com/problemset/problem/1792/A)
