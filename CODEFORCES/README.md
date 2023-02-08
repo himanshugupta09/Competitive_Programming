@@ -192,3 +192,6 @@
 
 **#Round 142 A. 1792 Gaming Forces**
 (https://codeforces.com/problemset/problem/1792/A)
+
+**TypeDB 2023 1787A. Exponential Equation**
+(https://codeforces.com/problemset/problem/1787/A)
