@@ -426,3 +426,7 @@
 
 **124.Version Control**
 (https://www.codechef.com/problems/VCS)
+
+
+**125. Take Not Less COOKOFF FEB2023**
+(https://www.codechef.com/problems/TAKENOTLESS?tab=statement)
