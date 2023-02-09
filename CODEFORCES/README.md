@@ -195,3 +195,7 @@
 
 **TypeDB 2023 1787A. Exponential Equation**
 (https://codeforces.com/problemset/problem/1787/A)
+
+
+**48. Round 851. 1788 A. One and Two**
+(https://codeforces.com/contest/1788/problem/A)
