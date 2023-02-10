@@ -199,3 +199,7 @@
 
 **48. Round 851. 1788 A. One and Two**
 (https://codeforces.com/contest/1788/problem/A)
+
+
+**49. Round 851. B. Sum of Two Numbers**
+(https://codeforces.com/contest/1788/problem/B)
