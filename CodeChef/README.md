@@ -437,3 +437,7 @@
 
 **127. Sleepy Chef**
 (https://www.codechef.com/LP2TO308/problems/FILL01?tab=statement)
+
+
+**128. Plusle and Minun of Array**
+(https://www.codechef.com/problems/PMA?tab=statement)
