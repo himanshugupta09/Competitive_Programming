@@ -203,3 +203,7 @@
 
 **49. Round 851. B. Sum of Two Numbers**
 (https://codeforces.com/contest/1788/problem/B)
+
+
+**50. Number Factorization 1787 B**
+(https://codeforces.com/problemset/problem/1787/B)
