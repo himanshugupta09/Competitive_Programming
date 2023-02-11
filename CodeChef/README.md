@@ -441,3 +441,7 @@
 
 **128. Plusle and Minun of Array**
 (https://www.codechef.com/problems/PMA?tab=statement)
+
+
+**129. Zero Ones Equals Ones Zeros**
+(https://www.codechef.com/problems/ZOOZ?tab=statement)
