@@ -207,3 +207,7 @@
 
 **50. Number Factorization 1787 B**
 (https://codeforces.com/problemset/problem/1787/B)
+
+
+**51. # Round 789 B. 1677. Tokitsukaze and Meeting**
+(https://codeforces.com/problemset/problem/1677/B)
