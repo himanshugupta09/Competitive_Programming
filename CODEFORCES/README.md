@@ -211,3 +211,6 @@
 
 **51. # Round 789 B. 1677. Tokitsukaze and Meeting**
 (https://codeforces.com/problemset/problem/1677/B)
+
+**52. # Round 791 B. Stone Age Problem**
+(https://codeforces.com/problemset/problem/1679/B)
