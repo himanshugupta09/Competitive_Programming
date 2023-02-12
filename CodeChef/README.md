@@ -445,3 +445,7 @@
 
 **129. Zero Ones Equals Ones Zeros**
 (https://www.codechef.com/problems/ZOOZ?tab=statement)
+
+
+**130. Permutation Xority**
+(https://www.codechef.com/problems/PERMXORITY?tab=statement)
