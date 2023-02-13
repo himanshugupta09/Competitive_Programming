@@ -449,3 +449,7 @@
 
 **130. Permutation Xority**
 (https://www.codechef.com/problems/PERMXORITY?tab=statement)
+
+
+**131. Adjacent Sum Pair**
+(https://www.codechef.com/problems/ADJSUMPAR)
