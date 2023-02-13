@@ -214,3 +214,7 @@
 
 **52. # Round 791 B. Stone Age Problem**
 (https://codeforces.com/problemset/problem/1679/B)
+
+
+**53.  # Round 259. (520) B. Two Buttons { BFS }**
+(https://codeforces.com/problemset/problem/520/B)
