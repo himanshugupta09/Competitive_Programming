@@ -218,3 +218,8 @@
 
 **53.  # Round 259. (520) B. Two Buttons { BFS }**
 (https://codeforces.com/problemset/problem/520/B)
+
+
+
+**54.  Ed 142 . b.Stand Up Comedian**
+(https://codeforces.com/problemset/problem/1792/B)
