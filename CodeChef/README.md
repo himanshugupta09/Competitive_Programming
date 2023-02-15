@@ -1,4 +1,5 @@
-**This Repositry Contains all the solutions to the Problem From CodeChef Competative Programming Platform**
+**This Repositry Contains all the solutions to the Problem From CodeChef**
+**Also Includes Practise and Contest Solution**
 
 
 **1. SEPT_LONG_CHALL_1_ Pokemon Battels { PBATTELS }**
