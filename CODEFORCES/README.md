@@ -223,3 +223,7 @@
 
 **54.  Ed 142 . b.Stand Up Comedian**
 (https://codeforces.com/problemset/problem/1792/B)
+
+
+**55. Round 833. 1748 A. The Ultimate Squares.**
+(https://codeforces.com/problemset/problem/1748/A)
