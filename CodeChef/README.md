@@ -453,3 +453,6 @@
 
 **131. Adjacent Sum Pair**
 (https://www.codechef.com/problems/ADJSUMPAR)
+
+**132. Chef Jumping**
+(https://www.codechef.com/problems/OJUMPS?tab=statement)
