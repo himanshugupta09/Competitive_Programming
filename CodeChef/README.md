@@ -456,3 +456,6 @@
 
 **132. Chef Jumping**
 (https://www.codechef.com/problems/OJUMPS?tab=statement)
+
+**133. Average Flex { Binary Search }**
+(https://www.codechef.com/problems/AVGFLEX?tab=statement)
