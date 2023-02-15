@@ -227,3 +227,6 @@
 
 **55. Round 833. 1748 A. The Ultimate Squares.**
 (https://codeforces.com/problemset/problem/1748/A)
+
+**56. Round 833. 1748 B. Diverese String**
+(https://codeforces.com/problemset/problem/1748/B)
