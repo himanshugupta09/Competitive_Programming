@@ -460,3 +460,7 @@
 
 **133. Average Flex { Binary Search }**
 (https://www.codechef.com/problems/AVGFLEX?tab=statement)
+
+
+**134.Tekken Problem**
+(https://www.codechef.com/problems/TEKKEN?tab=statement)
