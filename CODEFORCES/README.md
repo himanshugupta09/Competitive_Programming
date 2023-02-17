@@ -230,3 +230,6 @@
 
 **56. Round 833. 1748 B. Diverese String**
 (https://codeforces.com/problemset/problem/1748/B)
+
+**57. Round 852 1793 A Yet Another Promotion**
+(https://codeforces.com/problemset/problem/1793/A)
