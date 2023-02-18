@@ -233,3 +233,7 @@
 
 **57. Round 852 1793 A Yet Another Promotion**
 (https://codeforces.com/problemset/problem/1793/A)
+
+
+**58. Round 852 B 1793 Fedya and Array**
+(https://codeforces.com/problemset/problem/1793/B)
