@@ -467,3 +467,7 @@
 
 **135. Bi_lindrome!**
 (https://www.codechef.com/problems/QTOO_2523?tab=statement)
+
+
+**136. Alice Potter and Dumbledore Army**
+(https://www.codechef.com/problems/DUMBLEDORE?tab=statement)
