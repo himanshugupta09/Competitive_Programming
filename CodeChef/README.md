@@ -475,3 +475,6 @@
 
 **137. Concat Palindrome**
 (https://www.codechef.com/problems/CONCATPAL)
+
+**138. Three Numbers**
+(https://www.codechef.com/problems/THREENUMBERS)
