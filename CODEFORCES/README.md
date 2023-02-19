@@ -237,3 +237,7 @@
 
 **58. Round 852 B 1793 Fedya and Array**
 (https://codeforces.com/problemset/problem/1793/B)
+
+
+**59. Round 851. 1788 C. Matching Numbers**
+(https://codeforces.com/contest/1788/problem/C)
