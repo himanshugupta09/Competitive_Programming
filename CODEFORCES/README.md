@@ -241,3 +241,7 @@
 
 **59. Round 851. 1788 C. Matching Numbers**
 (https://codeforces.com/contest/1788/problem/C)
+
+
+**60. 1650 C. Weight of the System of nested segments**
+(https://codeforces.com/contest/1650/problem/C)
