@@ -478,3 +478,6 @@
 
 **138. Three Numbers**
 (https://www.codechef.com/problems/THREENUMBERS)
+
+**139. Change it**
+(https://www.codechef.com/problems/CHNGIT?tab=statement)
