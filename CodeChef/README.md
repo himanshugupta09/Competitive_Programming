@@ -481,3 +481,6 @@
 
 **139. Change it**
 (https://www.codechef.com/problems/CHNGIT?tab=statement)
+
+**140. CoronaVirus Spread**
+(https://www.codechef.com/problems/COVID19?tab=statement)
