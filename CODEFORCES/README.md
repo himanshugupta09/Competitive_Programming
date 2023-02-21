@@ -245,3 +245,7 @@
 
 **60. 1650 C. Weight of the System of nested segments**
 (https://codeforces.com/contest/1650/problem/C)
+
+
+**61. 1795. A. Two Towers**
+(https://codeforces.com/problemset/problem/1795/A)
