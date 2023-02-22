@@ -249,3 +249,6 @@
 
 **61. 1795. A. Two Towers**
 (https://codeforces.com/problemset/problem/1795/A)
+
+**62. 1795 B. Ideal Point**
+(https://codeforces.com/problemset/problem/1795/B)
