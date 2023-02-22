@@ -484,3 +484,7 @@
 
 **140. CoronaVirus Spread**
 (https://www.codechef.com/problems/COVID19?tab=statement)
+
+
+**141. Chef and Ridges**
+(https://www.codechef.com/problems/PRDRG?tab=statement)
