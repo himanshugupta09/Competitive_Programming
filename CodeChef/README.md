@@ -488,3 +488,7 @@
 
 **141. Chef and Ridges**
 (https://www.codechef.com/problems/PRDRG?tab=statement)
+
+
+**142. Valid Expression**
+(https://www.codechef.com/problems/EVALMAS?tab=statement)
