@@ -492,3 +492,7 @@
 
 **142. Valid Expression**
 (https://www.codechef.com/problems/EVALMAS?tab=statement)
+
+
+**143. Cutting Recipes**
+(https://www.codechef.com/problems/RECIPE?tab=statement)
