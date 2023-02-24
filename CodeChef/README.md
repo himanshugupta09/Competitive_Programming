@@ -496,3 +496,7 @@
 
 **143. Cutting Recipes**
 (https://www.codechef.com/problems/RECIPE?tab=statement)
+
+
+**144. Weight Balance**
+(https://www.codechef.com/problems/WEIGHTBL?tab=statement)
