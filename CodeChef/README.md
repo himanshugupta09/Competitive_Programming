@@ -500,3 +500,6 @@
 
 **144. Weight Balance**
 (https://www.codechef.com/problems/WEIGHTBL?tab=statement)
+
+**145. That is my Score**
+(https://www.codechef.com/problems/WATSCORE)
