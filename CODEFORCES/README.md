@@ -256,3 +256,7 @@
 
 **63. 1784 A. Monsters**
 (https://codeforces.com/problemset/problem/1784/A)
+
+
+**64. 1789 A. Serval and Mocha's Array**
+(https://codeforces.com/problemset/problem/1789/A)
