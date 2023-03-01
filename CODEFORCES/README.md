@@ -260,3 +260,7 @@
 
 **64. 1789 A. Serval and Mocha's Array**
 (https://codeforces.com/problemset/problem/1789/A)
+
+
+**65. 1796 A. Typical Interview Problem**
+(https://codeforces.com/contest/1796/problem/A)
