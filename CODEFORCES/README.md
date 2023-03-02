@@ -264,3 +264,7 @@
 
 **65. 1796 A. Typical Interview Problem**
 (https://codeforces.com/contest/1796/problem/A)
+
+
+**66. 1800  C2 Powering the Hero**
+(https://codeforces.com/contest/1800/problem/C2)
