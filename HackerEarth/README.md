@@ -12,3 +12,7 @@
 
 **3. The Power Sum { Recursion , BackTracking }**
 (https://www.hackerrank.com/challenges/the-power-sum/problem?isFullScreen=true)
+
+
+**4. Roy And the Flower Farm <POTD>  { Dynammic Programming }**
+(https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/roy-and-flower-farm/)
