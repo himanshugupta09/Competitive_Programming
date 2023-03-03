@@ -16,3 +16,7 @@
 
 **4. Roy And the Flower Farm <POTD>  { Dynammic Programming }**
 (https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional/practice-problems/algorithm/roy-and-flower-farm/)
+  
+
+**5. Non Divisible Subsets**
+(https://www.hackerrank.com/challenges/non-divisible-subset/problem)
