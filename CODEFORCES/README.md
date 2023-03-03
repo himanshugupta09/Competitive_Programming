@@ -268,3 +268,6 @@
 
 **66. 1800  C2 Powering the Hero**
 (https://codeforces.com/contest/1800/problem/C2)
+
+**87. 1800 B. Count the Number of Pairs**
+(https://codeforces.com/contest/1800/problem/B)
