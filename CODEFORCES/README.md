@@ -271,3 +271,7 @@
 
 **87. 1800 B. Count the Number of Pairs**
 (https://codeforces.com/contest/1800/problem/B)
+
+
+**88. 1703 B. ICPC Ballons**
+(https://codeforces.com/contest/1703/problem/B)
