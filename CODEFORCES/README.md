@@ -275,3 +275,6 @@
 
 **88. 1703 B. ICPC Ballons**
 (https://codeforces.com/contest/1703/problem/B)
+
+**89. 1703 C. Cypher**
+(https://codeforces.com/contest/1703/problem/C)
