@@ -503,3 +503,7 @@
 
 **145. That is my Score**
 (https://www.codechef.com/problems/WATSCORE)
+
+
+**146. Distinct Opposite Sums**
+(https://www.codechef.com/problems/DISTOPPSUMS?tab=statement)
