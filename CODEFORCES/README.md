@@ -286,3 +286,6 @@
 
 **91. 1352 D. Alice Bob And Candies**
 (https://codeforces.com/contest/1352/problem/D)
+
+**92. 1352 E. Special Elements  [  Two Pointers  ]**
+(https://codeforces.com/contest/1352/problem/E)
