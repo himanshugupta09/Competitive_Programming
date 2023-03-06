@@ -282,3 +282,7 @@
 
 **90. 1352 C. Kth Non Divisible By N  {Binary Search }**
 (https://codeforces.com/contest/1352/problem/C)
+
+
+**91. 1352 D. Alice Bob And Candies**
+(https://codeforces.com/contest/1352/problem/D)
