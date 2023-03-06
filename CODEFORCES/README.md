@@ -278,3 +278,7 @@
 
 **89. 1703 C. Cypher**
 (https://codeforces.com/contest/1703/problem/C)
+
+
+**90. 1352 C. Kth Non Divisible By N  {Binary Search }**
+(https://codeforces.com/contest/1352/problem/C)
