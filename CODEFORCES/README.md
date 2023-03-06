@@ -289,3 +289,7 @@
 
 **92. 1352 E. Special Elements  [  Two Pointers  ]**
 (https://codeforces.com/contest/1352/problem/E)
+
+
+**93. 1352 F.  Binary String Reconstruction { DFS }**
+(https://codeforces.com/contest/1352/problem/F)
