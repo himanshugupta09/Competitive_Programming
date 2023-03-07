@@ -293,3 +293,7 @@
 
 **93. 1352 F.  Binary String Reconstruction { DFS }**
 (https://codeforces.com/contest/1352/problem/F)
+
+
+**94. 1699 C. Odd/Even Increments**
+(https://codeforces.com/contest/1669/problem/C)
