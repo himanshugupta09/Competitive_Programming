@@ -297,3 +297,7 @@
 
 **94. 1699 C. Odd/Even Increments**
 (https://codeforces.com/contest/1669/problem/C)
+
+
+**95. 1699 D. ColorFul Stamp**
+(https://codeforces.com/contest/1669/problem/D)
