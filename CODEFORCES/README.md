@@ -301,3 +301,7 @@
 
 **95. 1699 D. ColorFul Stamp**
 (https://codeforces.com/contest/1669/problem/D)
+
+
+**96. 1699 E 2 -Letter Strings  { Hashmaps }**
+(https://codeforces.com/contest/1669/problem/E)
