@@ -507,3 +507,9 @@
 
 **146. Distinct Opposite Sums**
 (https://www.codechef.com/problems/DISTOPPSUMS?tab=statement)
+
+
+
+
+**147.  Permutation Subsequence   { Hash Map }**
+(https://www.codechef.com/problems/PERMSUBSEQ?tab=solution)
