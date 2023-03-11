@@ -305,3 +305,7 @@
 
 **96. 1699 E 2 -Letter Strings  { Hashmaps }**
 (https://codeforces.com/contest/1669/problem/E)
+
+
+**97. 1796 B. Asterik Minor-Template { String }**
+(https://codeforces.com/problemset/problem/1796/B)
