@@ -309,3 +309,7 @@
 
 **97. 1796 B. Asterik Minor-Template { String }**
 (https://codeforces.com/problemset/problem/1796/B)
+
+
+**98. 1783 A. Make it Beautiful**
+(https://codeforces.com/problemset/problem/1783/A)
