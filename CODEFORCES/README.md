@@ -313,3 +313,6 @@
 
 **98. 1783 A. Make it Beautiful**
 (https://codeforces.com/problemset/problem/1783/A)
+
+**99. 1800 C1 . Powering the hero ( Easy Version )**
+(https://codeforces.com/problemset/problem/1800/C1)
