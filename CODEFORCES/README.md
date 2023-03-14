@@ -316,3 +316,6 @@
 
 **99. 1800 C1 . Powering the hero ( Easy Version )**
 (https://codeforces.com/problemset/problem/1800/C1)
+
+**100. 1800 C2. Powering the Hero (Hard Vesion)**
+(https://codeforces.com/problemset/problem/1800/C2)
