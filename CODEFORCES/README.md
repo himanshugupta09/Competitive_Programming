@@ -323,3 +323,7 @@
 
 **101. 1794 A. Prefix and Suffix Array**
 (https://codeforces.com/problemset/problem/1794/A)
+
+
+**102. 1802 B Settlement of Guinea Pigs**
+(https://codeforces.com/problemset/problem/1802/B)
