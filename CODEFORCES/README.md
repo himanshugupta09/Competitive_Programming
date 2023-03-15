@@ -319,3 +319,7 @@
 
 **100. 1800 C2. Powering the Hero (Hard Vesion)**
 (https://codeforces.com/problemset/problem/1800/C2)
+
+
+**101. 1794 A. Prefix and Suffix Array**
+(https://codeforces.com/problemset/problem/1794/A)
