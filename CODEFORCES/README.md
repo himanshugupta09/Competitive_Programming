@@ -327,3 +327,7 @@
 
 **102. 1802 B Settlement of Guinea Pigs**
 (https://codeforces.com/problemset/problem/1802/B)
+
+
+**103.  1794 B. Not Dividing**
+(https://codeforces.com/problemset/problem/1794/B)
