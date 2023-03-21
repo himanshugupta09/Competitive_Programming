@@ -331,3 +331,7 @@
 
 **103.  1794 B. Not Dividing**
 (https://codeforces.com/problemset/problem/1794/B)
+
+
+**104. 1807 D. Odd Queries**
+(https://codeforces.com/contest/1807/problem/D)
