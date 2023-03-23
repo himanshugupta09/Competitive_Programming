@@ -335,3 +335,6 @@
 
 **104. 1807 D. Odd Queries**
 (https://codeforces.com/contest/1807/problem/D)
+
+**105. 1800 D. Remove Two Letters.**
+(https://codeforces.com/problemset/problem/1800/D)
