@@ -20,3 +20,7 @@
 
 **5. Non Divisible Subsets**
 (https://www.hackerrank.com/challenges/non-divisible-subset/problem)
+
+  
+**6. Monk And Rotation**
+(https://www.hackerearth.com/practice/codemonk/)
