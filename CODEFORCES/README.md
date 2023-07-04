@@ -338,3 +338,7 @@
 
 **105. 1800 D. Remove Two Letters.**
 (https://codeforces.com/problemset/problem/1800/D)
+
+
+**106. (1385) B. Restore the Permutation by Merger**
+(https://codeforces.com/contest/1385/problem/B)
