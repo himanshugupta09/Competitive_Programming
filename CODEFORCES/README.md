@@ -342,3 +342,7 @@
 
 **106. (1385) B. Restore the Permutation by Merger**
 (https://codeforces.com/contest/1385/problem/B)
+
+
+**107. (1385) C. Make it Good**
+(https://codeforces.com/contest/1385/problem/C)
