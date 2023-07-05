@@ -346,3 +346,8 @@
 
 **107. (1385) C. Make it Good**
 (https://codeforces.com/contest/1385/problem/C)
+
+
+
+**108. (1385) D. a-Good String { Dynammic Programming + Divide and Conquer 🔥 }**
+(https://codeforces.com/contest/1385/problem/D)
