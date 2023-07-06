@@ -354,3 +354,7 @@
 
 **109. (1157) A. Reachable Numbers**
 (https://codeforces.com/contest/1157/problem/A)
+
+
+**110. (1157) B. Long Number**
+(https://codeforces.com/contest/1157/problem/B)
