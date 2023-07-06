@@ -351,3 +351,6 @@
 
 **108. (1385) D. a-Good String { Dynammic Programming + Divide and Conquer 🔥 }**
 (https://codeforces.com/contest/1385/problem/D)
+
+**109. (1157) A. Reachable Numbers**
+(https://codeforces.com/contest/1157/problem/A)
