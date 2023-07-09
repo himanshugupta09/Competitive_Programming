@@ -358,3 +358,7 @@
 
 **110. (1157) B. Long Number**
 (https://codeforces.com/contest/1157/problem/B)
+
+
+**111. (1846) C. Rudolff and Another Competition**
+(https://codeforces.com/contest/1846/problem/C)
