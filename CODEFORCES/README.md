@@ -362,3 +362,9 @@
 
 **111. (1846) C. Rudolff and Another Competition**
 (https://codeforces.com/contest/1846/problem/C)
+
+
+**112. (1847) A. The Man who Become God**
+(https://codeforces.com/contest/1847/problem/A)
+
+
