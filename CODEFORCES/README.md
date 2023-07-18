@@ -368,3 +368,6 @@
 (https://codeforces.com/contest/1847/problem/A)
 
 
+**113. (1760) B. Akiltas Favourite Problem**
+(https://codeforces.com/contest/1760/problem/B)
+
