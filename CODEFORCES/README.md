@@ -372,5 +372,5 @@
 (https://codeforces.com/contest/1760/problem/B)
 
 
-**114. (1829) E.  The Lakes   { Aprroached With DFS }**
+**114. (1829) E. The Lakes { DFS }**
 (https://codeforces.com/problemset/problem/1829/E)
