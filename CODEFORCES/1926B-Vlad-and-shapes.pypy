@@ -1,0 +1,37 @@
+def solve():
+    n = int(input())
+    mat = []
+    for i in range(n):
+        s = list(input())
+        mat.append(s)
+
+    #print(mat)
+
+    ok = False
+    for i in range(n):
+        ct = 0
+        for j in range(n):
+            if mat[i][j] == '1':
+                ct += 1
+        if ct == 1:
+            ok = True
+        elif ct > 1:
+            break
+    mat = mat[::-1]
+    for  i in range(n):
+        ct = 0
+        for j in range(n):
+            if mat[i][j] == '1':
+                ct += 1
+        if ct == 1:
+            ok  = True
+        elif ct > 1:
+            break
+    if ok:
+        print("TRIANGLE")
+    else:
+        print("SQUARE")
+
+
+for _ in range(int(input())):
+    solve()
